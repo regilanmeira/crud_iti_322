@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-   <form>
+   <form action="lanche_inserir.php" method="post">
     <ul>
         <li><label>Descrição do lanche</label></li>
         <li><input type="text" name="txtDescricao"></li>
