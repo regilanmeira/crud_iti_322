@@ -22,3 +22,16 @@ input
     border: 1px solid #4055c7;
     color:#4055c7;
 }
+
+h1
+{
+    font-family: Calibri;
+    font-size: 18px;
+    color:#4055c7;
+}
+
+table
+{
+    font-family: calibri;
+    font-size:12px;
+}
