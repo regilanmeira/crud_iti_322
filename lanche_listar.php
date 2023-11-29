@@ -36,7 +36,7 @@
                 <td><?php echo $linha["descricao"]; ?></td>
                 <td><?php echo $linha["preco"]; ?></td>
                 <td>
-                    <a href="lanche_ver.php?id_lanche=<?php echo $linha["id_lanche"]; ?>&descricao=<?php echo $linha["descricao"] ?>">
+                    <a href="lanche_ver.php?id_lanche=<?php echo $linha["id_lanche"]; ?>">
                       <i class="fa-solid fa-eye fa-beat" style="color: #1d918f;"> </i>
                     </a>
             </td>
